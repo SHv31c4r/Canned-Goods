@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"14e42de7639df961","type":"file","file":"Конспекты/АиСД/Деревья.md","x":-120,"y":-960,"width":400,"height":400},
+		{"id":"39cfe565263927b3","type":"file","file":"Конспекты/АиСД/АВЛ-дерево.md","x":-120,"y":-440,"width":400,"height":400},
+		{"id":"62cc57daa9311ff2","type":"file","file":"Конспекты/АиСД/Общие вопросы по деревьям.md","x":600,"y":-1200,"width":400,"height":400},
+		{"id":"374a2686c6fb504c","type":"file","file":"Конспекты/АиСД/Вопросы по частным деревьям.md","x":600,"y":-680,"width":400,"height":400},
+		{"id":"e784194052198fd0","type":"file","file":"Конспекты/АиСД/Графы.md","x":-120,"y":120,"width":400,"height":400},
+		{"id":"3977192d2895a5dd","type":"file","file":"Конспекты/АиСД/Хеширование данных.md","x":-120,"y":-1480,"width":400,"height":400},
+		{"id":"5ae5d1119b7b64ad","x":600,"y":120,"width":400,"height":400,"type":"file","file":"Конспекты/АиСД/Вопросы по графам.md"}
+	],
+	"edges":[
+		{"id":"5543400403d839ab","fromNode":"14e42de7639df961","fromSide":"bottom","toNode":"39cfe565263927b3","toSide":"top"},
+		{"id":"7b28230a3efdd549","fromNode":"14e42de7639df961","fromSide":"right","toNode":"374a2686c6fb504c","toSide":"left"},
+		{"id":"f1844549886e08cb","fromNode":"14e42de7639df961","fromSide":"right","toNode":"62cc57daa9311ff2","toSide":"left"},
+		{"id":"7fb6ec3b8ab5c23c","fromNode":"39cfe565263927b3","fromSide":"bottom","toNode":"e784194052198fd0","toSide":"top"},
+		{"id":"74d491d8d242bb0e","fromNode":"3977192d2895a5dd","fromSide":"bottom","toNode":"14e42de7639df961","toSide":"top"},
+		{"id":"4012e90b82f8e753","fromNode":"e784194052198fd0","fromSide":"right","toNode":"5ae5d1119b7b64ad","toSide":"left"}
+	]
+}
